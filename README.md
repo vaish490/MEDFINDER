@@ -6,9 +6,9 @@ MEDFINDER 🎯
 
 
 ### Team Members
-- Member 1: [POOJALEKSHMI LS] - [College]
-- Member 2: [AKSHAJA BIJU K] - [College]
-- Member 3: [VAISHNAVI PRASAD] - [College]
+- Member 1: [VAISHNAVI PRASAD [COLLEGE OF ENGINEERING CHENGANNUR]
+- Member 2: [AKSHAJA BIJU K] -  [COLLEGE OF ENGINEERING CHENGANNUR]
+- Member 3: [LS POOJALEKSHMI] -  [COLLEGE OF ENGINEERING CHENGANNUR]
 
 ### Hosted Project Link
 https://drive.google.com/drive/folders/11bf4OKs13LxUiKPOoVlfkEL9m_fdvImX?usp=sharing
